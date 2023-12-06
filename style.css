@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+.top-division img {
+    border-radius: 50%;
+    max-width: 150px;
+    height: 150px;
+
+
+}
+
+.mid-left-division {
+    background-color: black;
+    color: white;
+    padding: 25px;
+
+}
+
+.mid-right-division {
+    padding: 25px;
+}
+
+footer {
+    background-color: rosybrown;
+}
+
+.top-division {
+    background-color: yellow;
+    display: flex;
+}
+
+.mid-division {
+
+    display: flex;
+
+}
