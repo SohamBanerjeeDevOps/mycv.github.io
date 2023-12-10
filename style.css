@@ -32,15 +32,6 @@
     padding: 20px;
 }
 
-footer {
-   display: flex;
-    justify-contect: space-between;
-    align-item:center;
-    padding: 25px;
-    background-color: green;
-    }
-
-
 
 .mid-division {
 
@@ -66,3 +57,14 @@ a:link {
     background-color: transparent;
     text-decoration: none;
 }
+
+
+
+
+footer {
+   display: flex;
+    justify-contect: space-between;
+    align-item:center;
+    padding: 25px;
+    background-color: green;
+    } 
