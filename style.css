@@ -8,9 +8,14 @@
     border-radius: 50%;
     max-width: 150px;
     height: 150px;
-
-
 }
+.top-division {
+    background-color: yellow;
+    display: flex;
+}
+
+
+
 .img-section {
     margin-right:25px;
 }
@@ -31,12 +36,8 @@ footer {
     align-item: center;
     pading: 25px;
 }
-}
 
-.top-division {
-    background-color: yellow;
-    display: flex;
-}
+
 
 .mid-division {
 
