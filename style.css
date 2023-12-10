@@ -35,8 +35,8 @@
 .footer-division {
     display: flex;
     colour: green;
-    justify-content: speace-betweeen;
     align-item: center;
+    justify-content: speace-betweeen;
     pading: 25px;
 }
 
