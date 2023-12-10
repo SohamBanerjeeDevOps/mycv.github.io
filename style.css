@@ -33,12 +33,11 @@
 }
 
 footer {
-    display: flex;
-    colour: green;
-    align-item: center;
-    justify-content: speace-betweeen;
-    pading: 25px;
-}
+   display: flex;
+    justify-contect: space-between;
+    align-item:center;
+    padding: 25px;
+    }
 
 
 
