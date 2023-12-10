@@ -53,7 +53,7 @@
 
 
 a:link {
-    color: green;
+    color: yellow;
     background-color: transparent;
     text-decoration: none;
 }
@@ -66,5 +66,5 @@ footer {
     justify-contect: space-between;
     align-item:center;
     padding: 25px;
-    background-color: rebeccapurple;
+    background-color: green;
     } 
