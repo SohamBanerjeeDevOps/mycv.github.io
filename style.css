@@ -59,3 +59,10 @@ footer {
 .mid-right-division h3 {
     margin-bottom: 15px;
 }
+
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
