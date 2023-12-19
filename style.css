@@ -64,7 +64,7 @@ a:link {
 footer {
    display: flex;
     justify-contect: space-between;
-    align-item:right;
+    align-item: right;
     padding: 25px;
     background-color: green;
     } 
