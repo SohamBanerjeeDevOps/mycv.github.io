@@ -53,7 +53,7 @@
 
 
 a:link {
-    color: darkgreen;
+    color: violet;
     background-color: transparent;
     text-decoration: none;
 }
@@ -61,10 +61,10 @@ a:link {
 
 
 
-.footer {
+footer {
    display: flex;
     justify-contect: space-between;
-    align-item:center;
+    align-item:right;
     padding: 25px;
     background-color: green;
     } 
